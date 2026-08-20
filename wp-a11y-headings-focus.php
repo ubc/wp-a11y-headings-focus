@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       WP A11y Headings Focus
+ * Plugin Name:       WP A11y Headings Focus (Testing)
  * Description:       Adds a tabindex="-1" to heading blocks to receive focus programatically.
  * Requires at least: 6.5
  * Requires PHP:      8.2
